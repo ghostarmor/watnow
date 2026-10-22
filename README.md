@@ -2,17 +2,17 @@
 
 <img src="docs/media/mark.png" width="96" alt="">
 
-# WATnow &nbsp;<a href="https://chromewebstore.google.com/detail/watnow/iikileknbmejmkaonlhkjkpbfnkidibh"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Add%20to%20Chrome-FFE45C?style=flat-square&labelColor=17181C&logo=googlechrome&logoColor=white" alt="Add to Chrome from the Chrome Web Store"></a>
+# WATnow &nbsp;<a href="https://chromewebstore.google.com/detail/watnow/iikileknbmejmkaonlhkjkpbfnkidibh"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Add%20to%20Chrome-FFE45C?style=flat-square&labelColor=F4F2ED&logo=googlechrome&logoColor=17181C" alt="Add to Chrome from the Chrome Web Store"></a>
 
-**All your course deadlines in one side panel, updated when profs move dates, with reminders before things close.**
+**All your course deadlines in one side panel, updated when profs move dates, with reminders before&nbsp;things&nbsp;close.**
 
 A browser extension for students at Waterloo, Guelph, Laurier, McMaster, Queen's, Western and TMU, for Chrome and for Firefox. It reads your school's Brightspace site, which Waterloo calls Learn.
 
 [Chrome Web Store](https://chromewebstore.google.com/detail/watnow/iikileknbmejmkaonlhkjkpbfnkidibh) &nbsp;·&nbsp; Firefox Add-ons (listing pending) &nbsp;·&nbsp; [Website](https://watnow.ugmi.ca) &nbsp;·&nbsp; [Privacy policy](https://watnow.ugmi.ca/privacy/)
 
-![manifest v3](https://img.shields.io/badge/Manifest_V3-Chrome_+_Firefox-FFE45C?style=flat-square&labelColor=17181C)
-![license](https://img.shields.io/badge/license-MIT-FFE45C?style=flat-square&labelColor=17181C)
-![installs](https://img.shields.io/badge/installs-1541-FFE45C?style=flat-square&labelColor=17181C)
+![manifest v3](https://img.shields.io/badge/Manifest_V3-Chrome_+_Firefox-FFE45C?style=flat-square&labelColor=F4F2ED)
+![license](https://img.shields.io/badge/license-MIT-FFE45C?style=flat-square&labelColor=F4F2ED)
+![installs](https://img.shields.io/badge/installs-2000%2B-FFE45C?style=flat-square&labelColor=F4F2ED)
 
 </div>
 
